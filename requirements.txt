@@ -1,0 +1,7 @@
+﻿streamlit
+pandas
+altair
+filelock
+openpyxl
+selenium
+webdriver-manager

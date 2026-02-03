@@ -1,0 +1,1041 @@
+{
+    "history": {
+        "전기요금": {
+            "2024": [
+                12561820,
+                12073930,
+                22545410,
+                8170188,
+                6459680,
+                5748710,
+                6928710,
+                10029560,
+                8288670,
+                6146590,
+                5670020,
+                8709400
+            ],
+            "2025": [
+                11782300,
+                11836830,
+                9452350,
+                7074860,
+                6117870,
+                6167830,
+                8266720,
+                10208920,
+                8551300,
+                7147870,
+                7589840,
+                10117850
+            ]
+        },
+        "상하수도": {
+            "2024": [
+                401210,
+                739720,
+                1377500,
+                844660,
+                1503310,
+                718050,
+                637780,
+                599160,
+                1287740,
+                725140,
+                847570,
+                451900
+            ],
+            "2025": [
+                681420,
+                495360,
+                555710,
+                533980,
+                577430,
+                635370,
+                461560,
+                476040,
+                647440,
+                456730,
+                468070,
+                768870
+            ]
+        },
+        "통신요금": {
+            "2024": [
+                1023050,
+                1045830,
+                1043690,
+                1044690,
+                1042290,
+                1033580,
+                1028770,
+                1040450,
+                1034740,
+                1032310,
+                1033430,
+                1042740
+            ],
+            "2025": [
+                1041570,
+                1035290,
+                1040590,
+                1033540,
+                1037200,
+                1033280,
+                1032120,
+                1035370,
+                1029710,
+                1045480,
+                1029170,
+                1042500
+            ]
+        },
+        "복합기임대": {
+            "2024": [
+                416900,
+                318890,
+                581100,
+                224260,
+                234160,
+                307930,
+                522720,
+                481470,
+                405760,
+                254800,
+                316490,
+                244790
+            ],
+            "2025": [
+                388410,
+                233330,
+                345310,
+                306500,
+                237160,
+                263950,
+                644200,
+                228140,
+                228140,
+                980320,
+                292930,
+                214500
+            ]
+        },
+        "공청기비데": {
+            "2024": [
+                883900,
+                883900,
+                883900,
+                883900,
+                883900,
+                883900,
+                883900,
+                883900,
+                883900,
+                883900,
+                883900,
+                883900
+            ],
+            "2025": [
+                883900,
+                883900,
+                883900,
+                883900,
+                883900,
+                883900,
+                883900,
+                883900,
+                883900,
+                883900,
+                883900,
+                883900
+            ]
+        },
+        "도시가스": {
+            "2024": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "2025": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ]
+        }
+    },
+    "plan_2026": [
+        {
+            "year": 2026,
+            "month": 1,
+            "category": "전기요금",
+            "amount": 12009970,
+            "drafted": true,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 2,
+            "category": "전기요금",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 3,
+            "category": "전기요금",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 4,
+            "category": "전기요금",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 5,
+            "category": "전기요금",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 6,
+            "category": "전기요금",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 7,
+            "category": "전기요금",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 8,
+            "category": "전기요금",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 9,
+            "category": "전기요금",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 10,
+            "category": "전기요금",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 11,
+            "category": "전기요금",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 12,
+            "category": "전기요금",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 1,
+            "category": "상하수도",
+            "amount": 454320,
+            "drafted": true,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 2,
+            "category": "상하수도",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 3,
+            "category": "상하수도",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 4,
+            "category": "상하수도",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 5,
+            "category": "상하수도",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 6,
+            "category": "상하수도",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 7,
+            "category": "상하수도",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 8,
+            "category": "상하수도",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 9,
+            "category": "상하수도",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 10,
+            "category": "상하수도",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 11,
+            "category": "상하수도",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 12,
+            "category": "상하수도",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 1,
+            "category": "통신요금",
+            "amount": 1033570,
+            "drafted": true,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 2,
+            "category": "통신요금",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 3,
+            "category": "통신요금",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 4,
+            "category": "통신요금",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 5,
+            "category": "통신요금",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 6,
+            "category": "통신요금",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 7,
+            "category": "통신요금",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 8,
+            "category": "통신요금",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 9,
+            "category": "통신요금",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 10,
+            "category": "통신요금",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 11,
+            "category": "통신요금",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 12,
+            "category": "통신요금",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 1,
+            "category": "복합기임대",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 2,
+            "category": "복합기임대",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 3,
+            "category": "복합기임대",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 4,
+            "category": "복합기임대",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 5,
+            "category": "복합기임대",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 6,
+            "category": "복합기임대",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 7,
+            "category": "복합기임대",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 8,
+            "category": "복합기임대",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 9,
+            "category": "복합기임대",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 10,
+            "category": "복합기임대",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 11,
+            "category": "복합기임대",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 12,
+            "category": "복합기임대",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 1,
+            "category": "공청기비데",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 2,
+            "category": "공청기비데",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 3,
+            "category": "공청기비데",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 4,
+            "category": "공청기비데",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 5,
+            "category": "공청기비데",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 6,
+            "category": "공청기비데",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 7,
+            "category": "공청기비데",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 8,
+            "category": "공청기비데",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 9,
+            "category": "공청기비데",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 10,
+            "category": "공청기비데",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 11,
+            "category": "공청기비데",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        },
+        {
+            "year": 2026,
+            "month": 12,
+            "category": "공청기비데",
+            "amount": 0,
+            "drafted": false,
+            "evidence": ""
+        }
+    ],
+    "last_updated": 1769491437.3645043,
+    "meta_2025": [
+        {
+            "year": 2025,
+            "month": 1,
+            "category": "전기요금",
+            "drafted": true
+        },
+        {
+            "year": 2025,
+            "month": 2,
+            "category": "전기요금",
+            "drafted": true
+        },
+        {
+            "year": 2025,
+            "month": 3,
+            "category": "전기요금",
+            "drafted": true
+        },
+        {
+            "year": 2025,
+            "month": 4,
+            "category": "전기요금",
+            "drafted": true
+        },
+        {
+            "year": 2025,
+            "month": 5,
+            "category": "전기요금",
+            "drafted": true
+        },
+        {
+            "year": 2025,
+            "month": 6,
+            "category": "전기요금",
+            "drafted": true
+        },
+        {
+            "year": 2025,
+            "month": 7,
+            "category": "전기요금",
+            "drafted": true
+        },
+        {
+            "year": 2025,
+            "month": 8,
+            "category": "전기요금",
+            "drafted": true
+        },
+        {
+            "year": 2025,
+            "month": 9,
+            "category": "전기요금",
+            "drafted": true
+        },
+        {
+            "year": 2025,
+            "month": 10,
+            "category": "전기요금",
+            "drafted": true
+        },
+        {
+            "year": 2025,
+            "month": 11,
+            "category": "전기요금",
+            "drafted": true
+        },
+        {
+            "year": 2025,
+            "month": 12,
+            "category": "전기요금",
+            "drafted": true
+        },
+        {
+            "year": 2025,
+            "month": 1,
+            "category": "상하수도",
+            "drafted": true
+        },
+        {
+            "year": 2025,
+            "month": 2,
+            "category": "상하수도",
+            "drafted": true
+        },
+        {
+            "year": 2025,
+            "month": 3,
+            "category": "상하수도",
+            "drafted": true
+        },
+        {
+            "year": 2025,
+            "month": 4,
+            "category": "상하수도",
+            "drafted": true
+        },
+        {
+            "year": 2025,
+            "month": 5,
+            "category": "상하수도",
+            "drafted": true
+        },
+        {
+            "year": 2025,
+            "month": 6,
+            "category": "상하수도",
+            "drafted": true
+        },
+        {
+            "year": 2025,
+            "month": 7,
+            "category": "상하수도",
+            "drafted": true
+        },
+        {
+            "year": 2025,
+            "month": 8,
+            "category": "상하수도",
+            "drafted": true
+        },
+        {
+            "year": 2025,
+            "month": 9,
+            "category": "상하수도",
+            "drafted": true
+        },
+        {
+            "year": 2025,
+            "month": 10,
+            "category": "상하수도",
+            "drafted": true
+        },
+        {
+            "year": 2025,
+            "month": 11,
+            "category": "상하수도",
+            "drafted": true
+        },
+        {
+            "year": 2025,
+            "month": 12,
+            "category": "상하수도",
+            "drafted": true
+        },
+        {
+            "year": 2025,
+            "month": 1,
+            "category": "통신요금",
+            "drafted": true,
+            "evidence": "(정약용 펀그라운드) 2025년 11월분 통신요금 납부"
+        },
+        {
+            "year": 2025,
+            "month": 2,
+            "category": "통신요금",
+            "drafted": true,
+            "evidence": "(정약용 펀그라운드) 2025년 12월분 통신요금 납부"
+        },
+        {
+            "year": 2025,
+            "month": 3,
+            "category": "통신요금",
+            "drafted": true,
+            "evidence": "(정약용 펀그라운드) 2025년 3월분 통신요금 납부"
+        },
+        {
+            "year": 2025,
+            "month": 4,
+            "category": "통신요금",
+            "drafted": true,
+            "evidence": "(정약용 펀그라운드) 2025년 4월분 통신요금 납부"
+        },
+        {
+            "year": 2025,
+            "month": 5,
+            "category": "통신요금",
+            "drafted": true,
+            "evidence": "(정약용 펀그라운드) 2025년 5월분 통신요금 납부"
+        },
+        {
+            "year": 2025,
+            "month": 6,
+            "category": "통신요금",
+            "drafted": true,
+            "evidence": "(정약용 펀그라운드) 2025년 6월분 통신요금 납부"
+        },
+        {
+            "year": 2025,
+            "month": 7,
+            "category": "통신요금",
+            "drafted": true,
+            "evidence": "(정약용 펀그라운드) 2025년 7월분 통신요금 납부"
+        },
+        {
+            "year": 2025,
+            "month": 8,
+            "category": "통신요금",
+            "drafted": true,
+            "evidence": "(정약용 펀그라운드) 2025년 8월분 통신요금 납부"
+        },
+        {
+            "year": 2025,
+            "month": 9,
+            "category": "통신요금",
+            "drafted": true,
+            "evidence": "(정약용 펀그라운드) 2025년 9월분 통신요금 납부"
+        },
+        {
+            "year": 2025,
+            "month": 10,
+            "category": "통신요금",
+            "drafted": true,
+            "evidence": "(정약용 펀그라운드) 2025년 10월분 통신요금 납부"
+        },
+        {
+            "year": 2025,
+            "month": 11,
+            "category": "통신요금",
+            "drafted": true,
+            "evidence": "(정약용 펀그라운드) 2025년 11월분 통신요금 납부"
+        },
+        {
+            "year": 2025,
+            "month": 12,
+            "category": "통신요금",
+            "drafted": true,
+            "evidence": "(정약용 펀그라운드) 2025년 12월분 통신요금 납부"
+        },
+        {
+            "year": 2025,
+            "month": 1,
+            "category": "복합기임대",
+            "drafted": false
+        },
+        {
+            "year": 2025,
+            "month": 2,
+            "category": "복합기임대",
+            "drafted": false
+        },
+        {
+            "year": 2025,
+            "month": 3,
+            "category": "복합기임대",
+            "drafted": false
+        },
+        {
+            "year": 2025,
+            "month": 4,
+            "category": "복합기임대",
+            "drafted": false
+        },
+        {
+            "year": 2025,
+            "month": 5,
+            "category": "복합기임대",
+            "drafted": false
+        },
+        {
+            "year": 2025,
+            "month": 6,
+            "category": "복합기임대",
+            "drafted": false
+        },
+        {
+            "year": 2025,
+            "month": 7,
+            "category": "복합기임대",
+            "drafted": false
+        },
+        {
+            "year": 2025,
+            "month": 8,
+            "category": "복합기임대",
+            "drafted": false
+        },
+        {
+            "year": 2025,
+            "month": 9,
+            "category": "복합기임대",
+            "drafted": false
+        },
+        {
+            "year": 2025,
+            "month": 10,
+            "category": "복합기임대",
+            "drafted": false
+        },
+        {
+            "year": 2025,
+            "month": 11,
+            "category": "복합기임대",
+            "drafted": false
+        },
+        {
+            "year": 2025,
+            "month": 12,
+            "category": "복합기임대",
+            "drafted": false
+        },
+        {
+            "year": 2025,
+            "month": 1,
+            "category": "공청기비데",
+            "drafted": false
+        },
+        {
+            "year": 2025,
+            "month": 2,
+            "category": "공청기비데",
+            "drafted": false
+        },
+        {
+            "year": 2025,
+            "month": 3,
+            "category": "공청기비데",
+            "drafted": false
+        },
+        {
+            "year": 2025,
+            "month": 4,
+            "category": "공청기비데",
+            "drafted": false
+        },
+        {
+            "year": 2025,
+            "month": 5,
+            "category": "공청기비데",
+            "drafted": false
+        },
+        {
+            "year": 2025,
+            "month": 6,
+            "category": "공청기비데",
+            "drafted": false
+        },
+        {
+            "year": 2025,
+            "month": 7,
+            "category": "공청기비데",
+            "drafted": false
+        },
+        {
+            "year": 2025,
+            "month": 8,
+            "category": "공청기비데",
+            "drafted": false
+        },
+        {
+            "year": 2025,
+            "month": 9,
+            "category": "공청기비데",
+            "drafted": false
+        },
+        {
+            "year": 2025,
+            "month": 10,
+            "category": "공청기비데",
+            "drafted": false
+        },
+        {
+            "year": 2025,
+            "month": 11,
+            "category": "공청기비데",
+            "drafted": false
+        },
+        {
+            "year": 2025,
+            "month": 12,
+            "category": "공청기비데",
+            "drafted": false
+        }
+    ]
+}
